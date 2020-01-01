@@ -1,0 +1,12 @@
+.admin-wrapper{
+    display: flex;
+    flex-flow: nowrap row;
+    justify-content: flex-start;
+    align-items: flex-start; 
+}
+.active-router{
+    color: #61dafb;
+}
+.content-wrapper{
+    padding: 20px;
+}
